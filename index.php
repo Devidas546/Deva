@@ -2,7 +2,7 @@
 //Start program
 echo "Hi";
 
-//Defined veribable here
+//Defined veribable here  EEEE
 $varname="Devidas";
 
 //Print varibale here
